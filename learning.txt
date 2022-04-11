@@ -1,0 +1,6 @@
+Creating remote and local repositories
+Creating new branches and merging branches between local and remote
+Checking for differences between local and remote after making changes
+Fast-forward merges 
+Stashing
+Using git fetch
