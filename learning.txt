@@ -4,3 +4,9 @@ Checking for differences between local and remote after making changes
 Fast-forward merges 
 Stashing
 Using git fetch
+Setting up upstream
+Setting up private repos
+Setting up wiki page
+Forking
+Creating issues
+Creating pull requests
