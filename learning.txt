@@ -10,3 +10,5 @@ Setting up wiki page
 Forking
 Creating issues
 Creating pull requests
+
+Learned how to use Jenkins for CI/CD and make git hooks so that jobs are updated when repository is updated.
